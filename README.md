@@ -25,3 +25,12 @@ structured filling in of image region boundary pixels
 
 O-Opening
 structured removal of image region boundary pixels
+
+//////////
+Example Binary image in input.txt
+Example SE in input2.txt
+
+- After compiling run with:
+main input.txt input2.txt [Choice of E,D,C,O operations]
+
+Output.txt automatically generated/rewritten for end results.
